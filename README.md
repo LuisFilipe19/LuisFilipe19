@@ -1,16 +1,15 @@
-### Hi there 👋
+# Olá! 👋
 
-<!--
-**LuisFilipe19/LuisFilipe19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Luis Filipe e atualmente estou aprendendo sobre programação com foco em Backend(JS) na Cubos Academy, pretendo ingressar no meio profissional e estou muito ancioso para começar a trabalhar com o que eu gosto.
+Recentemente comecei a estudar sobre Defesa Cibernética na Wyden UniRuy.
 
-Here are some ideas to get you started:
+## Informações para contato:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :link: Linkedin
+https://www.linkedin.com/in/luis-filipe-lopes-17b746287/
+
+### 📫 Gmail
+
+luisfiliipe19@gmail.com
+
+
